@@ -1,0 +1,50 @@
+{
+  "id": 554859883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"ME",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191581,
+        421201437,
+        85632667,
+        85674639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"22503650"
+    },
+    "wof:country":"ME",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":421201437,
+            "postalcode_id":554859883,
+            "region_id":85674639
+        }
+    ],
+    "wof:id":554859883,
+    "wof:lastmodified":1460101135,
+    "wof:name":"85320",
+    "wof:parent_id":"421201437",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
